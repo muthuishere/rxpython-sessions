@@ -1,4 +1,4 @@
-# Functional & Reactive Programming - Session 1
+# Functional & Reactive Programming - Sessions
 
  Workshop materials 
   
